@@ -13,6 +13,21 @@
 		05C66B2023B78B990093B21F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05C66B1E23B78B990093B21F /* Main.storyboard */; };
 		05C66B2223B78B9A0093B21F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05C66B2123B78B9A0093B21F /* Assets.xcassets */; };
 		05C66B2523B78B9A0093B21F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05C66B2323B78B9A0093B21F /* LaunchScreen.storyboard */; };
+		05C66B2D23B78C650093B21F /* UnvanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C66B2C23B78C650093B21F /* UnvanViewController.swift */; };
+		05C66B2F23B78D340093B21F /* SingUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C66B2E23B78D340093B21F /* SingUpViewController.swift */; };
+		05C66B3123B78F6C0093B21F /* SirketViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C66B3023B78F6C0093B21F /* SirketViewController.swift */; };
+		05C66B3323B791CE0093B21F /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C66B3223B791CE0093B21F /* FirstViewController.swift */; };
+		05C66B3523B791DD0093B21F /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C66B3423B791DD0093B21F /* LogInViewController.swift */; };
+		05C66B3723B794720093B21F /* Globals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C66B3623B794720093B21F /* Globals.swift */; };
+		05C66B3923B796B90093B21F /* StatsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C66B3823B796B90093B21F /* StatsViewController.swift */; };
+		05C66B5F23B7B7EE0093B21F /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C66B5E23B7B7EE0093B21F /* MapViewController.swift */; };
+		05C66B6123B7EA790093B21F /* CommentsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C66B6023B7EA790093B21F /* CommentsViewController.swift */; };
+		05C66B6323B7EACE0093B21F /* PostsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C66B6223B7EACE0093B21F /* PostsViewController.swift */; };
+		05C66B6523B80A850093B21F /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C66B6423B80A850093B21F /* TestViewController.swift */; };
+		05C66B6723B82B3F0093B21F /* AlisverisViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C66B6623B82B3F0093B21F /* AlisverisViewController.swift */; };
+		05C66B6923B82F7E0093B21F /* ItemBuyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C66B6823B82F7E0093B21F /* ItemBuyViewController.swift */; };
+		05C66B6B23B84D670093B21F /* AddCommentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C66B6A23B84D670093B21F /* AddCommentViewController.swift */; };
+		05C66B6D23B86F610093B21F /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C66B6C23B86F610093B21F /* ProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +39,21 @@
 		05C66B2123B78B9A0093B21F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		05C66B2423B78B9A0093B21F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		05C66B2623B78B9A0093B21F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		05C66B2C23B78C650093B21F /* UnvanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnvanViewController.swift; sourceTree = "<group>"; };
+		05C66B2E23B78D340093B21F /* SingUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingUpViewController.swift; sourceTree = "<group>"; };
+		05C66B3023B78F6C0093B21F /* SirketViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SirketViewController.swift; sourceTree = "<group>"; };
+		05C66B3223B791CE0093B21F /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		05C66B3423B791DD0093B21F /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
+		05C66B3623B794720093B21F /* Globals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Globals.swift; sourceTree = "<group>"; };
+		05C66B3823B796B90093B21F /* StatsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsViewController.swift; sourceTree = "<group>"; };
+		05C66B5E23B7B7EE0093B21F /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		05C66B6023B7EA790093B21F /* CommentsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentsViewController.swift; sourceTree = "<group>"; };
+		05C66B6223B7EACE0093B21F /* PostsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostsViewController.swift; sourceTree = "<group>"; };
+		05C66B6423B80A850093B21F /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
+		05C66B6623B82B3F0093B21F /* AlisverisViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlisverisViewController.swift; sourceTree = "<group>"; };
+		05C66B6823B82F7E0093B21F /* ItemBuyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemBuyViewController.swift; sourceTree = "<group>"; };
+		05C66B6A23B84D670093B21F /* AddCommentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCommentViewController.swift; sourceTree = "<group>"; };
+		05C66B6C23B86F610093B21F /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +90,21 @@
 				05C66B1A23B78B990093B21F /* SceneDelegate.swift */,
 				05C66B1C23B78B990093B21F /* ViewController.swift */,
 				05C66B1E23B78B990093B21F /* Main.storyboard */,
+				05C66B6C23B86F610093B21F /* ProfileViewController.swift */,
+				05C66B6A23B84D670093B21F /* AddCommentViewController.swift */,
+				05C66B6823B82F7E0093B21F /* ItemBuyViewController.swift */,
+				05C66B6623B82B3F0093B21F /* AlisverisViewController.swift */,
+				05C66B6423B80A850093B21F /* TestViewController.swift */,
+				05C66B6223B7EACE0093B21F /* PostsViewController.swift */,
+				05C66B6023B7EA790093B21F /* CommentsViewController.swift */,
+				05C66B5E23B7B7EE0093B21F /* MapViewController.swift */,
+				05C66B3823B796B90093B21F /* StatsViewController.swift */,
+				05C66B3623B794720093B21F /* Globals.swift */,
+				05C66B3223B791CE0093B21F /* FirstViewController.swift */,
+				05C66B3423B791DD0093B21F /* LogInViewController.swift */,
+				05C66B3023B78F6C0093B21F /* SirketViewController.swift */,
+				05C66B2E23B78D340093B21F /* SingUpViewController.swift */,
+				05C66B2C23B78C650093B21F /* UnvanViewController.swift */,
 				05C66B2123B78B9A0093B21F /* Assets.xcassets */,
 				05C66B2323B78B9A0093B21F /* LaunchScreen.storyboard */,
 				05C66B2623B78B9A0093B21F /* Info.plist */,
@@ -138,9 +183,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				05C66B6523B80A850093B21F /* TestViewController.swift in Sources */,
+				05C66B5F23B7B7EE0093B21F /* MapViewController.swift in Sources */,
 				05C66B1D23B78B990093B21F /* ViewController.swift in Sources */,
 				05C66B1923B78B990093B21F /* AppDelegate.swift in Sources */,
+				05C66B6923B82F7E0093B21F /* ItemBuyViewController.swift in Sources */,
+				05C66B3123B78F6C0093B21F /* SirketViewController.swift in Sources */,
+				05C66B6D23B86F610093B21F /* ProfileViewController.swift in Sources */,
+				05C66B6B23B84D670093B21F /* AddCommentViewController.swift in Sources */,
+				05C66B2F23B78D340093B21F /* SingUpViewController.swift in Sources */,
+				05C66B3523B791DD0093B21F /* LogInViewController.swift in Sources */,
 				05C66B1B23B78B990093B21F /* SceneDelegate.swift in Sources */,
+				05C66B6323B7EACE0093B21F /* PostsViewController.swift in Sources */,
+				05C66B2D23B78C650093B21F /* UnvanViewController.swift in Sources */,
+				05C66B6123B7EA790093B21F /* CommentsViewController.swift in Sources */,
+				05C66B3323B791CE0093B21F /* FirstViewController.swift in Sources */,
+				05C66B6723B82B3F0093B21F /* AlisverisViewController.swift in Sources */,
+				05C66B3923B796B90093B21F /* StatsViewController.swift in Sources */,
+				05C66B3723B794720093B21F /* Globals.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
